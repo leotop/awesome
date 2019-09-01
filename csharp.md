@@ -6,3 +6,7 @@
 Сортировка и группировка данных
 
 * https://github.com/scarpentier/CSharp-NaturalSort
+
+Разное
+
+* https://github.com/mariusschulz/ExtraLINQ
