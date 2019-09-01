@@ -25,6 +25,9 @@ Natural Language
 
 * https://github.com/mariusschulz/ExtraLINQ
 
+Заметки
+
+https://github.com/benscabbia/Ebay.Net
 
 AForge.
 
