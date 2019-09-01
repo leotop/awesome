@@ -11,6 +11,10 @@
 
 * https://github.com/charlesw/tesseract
 
+JSON
+
+* https://github.com/JamesNK/Newtonsoft.Json
+
 Разное
 
 * https://github.com/mariusschulz/ExtraLINQ
