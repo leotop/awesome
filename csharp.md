@@ -16,6 +16,11 @@ JSON
 
 * https://github.com/JamesNK/Newtonsoft.Json
 
+Natural Language
+
+* https://github.com/ttsu/TextStatistics.Net
+
+
 Разное
 
 * https://github.com/mariusschulz/ExtraLINQ
