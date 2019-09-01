@@ -20,6 +20,10 @@ Natural Language
 
 * https://github.com/ttsu/TextStatistics.Net
 
+Алгоритмы
+
+* https://github.com/aalhour/C-Sharp-Algorithms
+
 
 Разное
 
