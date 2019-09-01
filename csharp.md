@@ -2,6 +2,7 @@
 
 * https://github.com/mganss/HtmlSanitizer
 * https://github.com/Strumenta/SmartReader
+* https://github.com/Jayx239/BrowseSharp
 
 Сортировка и группировка данных
 
