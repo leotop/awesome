@@ -7,6 +7,10 @@
 
 * https://github.com/scarpentier/CSharp-NaturalSort
 
+Распознавание текста
+
+* https://github.com/charlesw/tesseract
+
 Разное
 
 * https://github.com/mariusschulz/ExtraLINQ
