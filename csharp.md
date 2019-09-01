@@ -19,6 +19,7 @@ JSON
 Natural Language
 
 * https://github.com/ttsu/TextStatistics.Net
+* https://github.com/ti-ka/human-date-parser
 
 Алгоритмы
 
