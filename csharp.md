@@ -1,5 +1,6 @@
 Обработка и парсинг HTML
 
+* https://github.com/zzzprojects/html-agility-pack
 * https://github.com/mganss/HtmlSanitizer
 * https://github.com/Strumenta/SmartReader
 * https://github.com/Jayx239/BrowseSharp
