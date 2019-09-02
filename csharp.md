@@ -19,6 +19,10 @@ JSON
 
 * https://github.com/JamesNK/Newtonsoft.Json
 
+PDF
+
+* https://itextpdf.com/en/products/itext-7/itext-7-community
+
 Базы данных
 
 * https://docs.mongodb.com/ecosystem/drivers/csharp/
