@@ -3,6 +3,7 @@
 * https://github.com/mganss/HtmlSanitizer
 * https://github.com/Strumenta/SmartReader
 * https://github.com/Jayx239/BrowseSharp
+* https://www.nuget.org/packages/selenium.webdriver/
 
 Сортировка и группировка данных
 
