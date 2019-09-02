@@ -19,6 +19,12 @@ JSON
 
 * https://github.com/JamesNK/Newtonsoft.Json
 
+Базы данных
+
+* https://docs.mongodb.com/ecosystem/drivers/csharp/
+* https://github.com/elastic/elasticsearch-net
+
+
 Natural Language
 
 * https://github.com/ttsu/TextStatistics.Net
