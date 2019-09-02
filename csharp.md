@@ -4,6 +4,7 @@
 * https://github.com/Strumenta/SmartReader
 * https://github.com/Jayx239/BrowseSharp
 * https://www.nuget.org/packages/selenium.webdriver/
+* https://github.com/restsharp/RestSharp
 
 Сортировка и группировка данных
 
