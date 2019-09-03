@@ -39,6 +39,10 @@ Natural Language
 
 * https://github.com/aalhour/C-Sharp-Algorithms
 
+Видео и аудио
+
+* https://www.nuget.org/packages/MediaInfo.DotNetWrapper/
+
 
 Разное
 
