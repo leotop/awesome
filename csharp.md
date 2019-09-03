@@ -42,6 +42,7 @@ Natural Language
 Видео и аудио
 
 * https://www.nuget.org/packages/MediaInfo.DotNetWrapper/
+* https://www.nuget.org/packages/Bass.NetWrapper/
 
 
 Разное
