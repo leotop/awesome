@@ -85,5 +85,9 @@ In this example, `<section></section>` code
       Якорная ссылка
       [Chapter 1](#chapter-1)
 
-[Chapter 1](#chapter-1)
+Изображения, аналогичны ссылкам, отличие в знаке восклицания впереди
+
+      ![Alt text](http://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+
 
