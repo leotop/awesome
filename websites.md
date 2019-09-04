@@ -6,6 +6,10 @@
 
 * https://www.netlify.com/pricing/
 
+Проверка анонимности
+
+* https://browserleaks.com/canvas
+
 Арбитраж сайты и блоги
 
 * https://traff.ink/
