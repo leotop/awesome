@@ -71,8 +71,19 @@ In this example, `<section></section>` code
 | ext    | extension to be used for dest files. |
 ```
 
-Простые ссылки преобразуется самоятотельно, ссылки с анкором формируются следующим образом
+Примеры ссылок
 
+      Обычная ссылка
+      https://github.com/
+      
+      Анкор
       [Assemble](http://assemble.io)
+      
+      Анкор и Title ссылки
       [Upstage](https://github.com/upstage/ "Visit Upstage!")
+      
+      Якорная ссылка
+      [Chapter 1](#chapter-1)
+
+[Chapter 1](#chapter-1)
 
