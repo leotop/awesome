@@ -2,6 +2,10 @@
 
 * https://www.alibabacloud.com/domain/xyz (акция на 1 первый домен xyz)
 
+Бесплатные тестовые сайты и домены
+
+* https://www.netlify.com/pricing/
+
 Арбитраж сайты и блоги
 
 * https://traff.ink/
