@@ -28,3 +28,16 @@ SEO
 CSS фреймворки
 
 * https://picturepan2.github.io/spectre/layout/grid.html
+
+Форумы по 1С
+
+* https://partners.v8.1c.ru/
+* http://devtrainingforum.v8.1c.ru/forum/
+* https://forum.infostart.ru/
+* https://www.sql.ru/forum/1c
+* http://www.cyberforum.ru/1c/
+* https://forum.klerk.ru/forumdisplay.php?f=60
+* http://nowa.cc/forumdisplay.php?f=83
+* http://www.nado.in/forumdisplay.php?f=3
+* http://www.gilev.ru/forum/
+* http://www.forum.mista.ru/
