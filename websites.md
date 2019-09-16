@@ -41,3 +41,7 @@ CSS фреймворки
 * http://www.nado.in/forumdisplay.php?f=3
 * http://www.gilev.ru/forum/
 * http://www.forum.mista.ru/
+
+Справочники и классификаторы
+
+https://classif.gov.spb.ru/irsi/
