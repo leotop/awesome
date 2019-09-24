@@ -5,35 +5,34 @@
 Бесплатные тестовые сайты и домены
 
 * https://www.netlify.com/pricing/
-
-blogger.com
-wordpress.com
-tumblr.com
-weebly.com
-mix.com
-wix.com
-ghost.org
-write.as
-codepen.io
-medium.com
-idebate.org
-kumu.io
-notion.so
-ulule.com
-teletype.in
-wattpad.com
-issuu.com
-siterubix.com
-simplesite.com
-livejournal.com
-yola.com
-sites.google.com
-pages.github.com
-angelfire.lycos.com
-own-free-website.com
-emyspot.com
-soup.io
-hubpages.com
+* blogger.com
+* wordpress.com
+* tumblr.com
+* weebly.com
+* mix.com
+* wix.com
+* ghost.org
+* write.as
+* codepen.io
+* medium.com
+* idebate.org
+* kumu.io
+* notion.so
+* ulule.com
+* teletype.in
+* wattpad.com
+* issuu.com
+* siterubix.com
+* simplesite.com
+* livejournal.com
+* yola.com
+* sites.google.com
+* pages.github.com
+* angelfire.lycos.com
+* own-free-website.com
+* emyspot.com
+* soup.io
+* hubpages.com
 
 Проверка анонимности
 
