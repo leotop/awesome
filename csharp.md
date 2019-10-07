@@ -70,6 +70,10 @@ WORD, EXCEL, OFFICE
 
 * https://github.com/UNIT6-open/TemplateEngine.Docx
 
+CSV
+
+* https://github.com/JoshClose/CsvHelper | https://joshclose.github.io/CsvHelper/ | https://www.nuget.org/packages/CsvHelper/
+
 EMAIL
 
 * https://www.nuget.org/packages/MimeKit/
