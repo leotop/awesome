@@ -92,3 +92,7 @@ EMAIL
 AWESOME
 
 * https://github.com/quozd/awesome-dotnet
+
+Языки программирования - взаимодействие
+
+* http://www.moonsharp.org/
