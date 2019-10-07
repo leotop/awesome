@@ -26,4 +26,5 @@
 
 * https://zennolab.com/discussion/threads/najti-koordinaty-4x-tochek-ehlementa-i-sdelat-randomnyj-klik-vnutri-ehtix-koordinat.66011/
 * https://zennolab.com/discussion/threads/post-zapros-v-calendar-google-com.51626/
-
+* https://zennolab.com/discussion/threads/vremja-ozhidanija-sms.36340/
+* https://zennolab.com/discussion/threads/kak-perenesti-neskolko-strok-s-odnogo-spiska-v-drugoj.65705/
