@@ -7,6 +7,16 @@
 * https://www.nuget.org/packages/selenium.webdriver/
 * https://github.com/restsharp/RestSharp
 
+MARKDOWN
+
+* https://github.com/alex-titarenko/MarkedNet
+* https://github.com/Knagis/CommonMark.NET
+* https://github.com/lunet-io/markdig
+
+TEMPLATE ENGINES
+
+* https://github.com/lunet-io/scriban
+
 Сортировка и группировка данных
 
 * https://github.com/scarpentier/CSharp-NaturalSort
