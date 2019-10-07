@@ -85,6 +85,7 @@ https://classif.gov.spb.ru/irsi/
 * https://codecombat.com/
 * https://cssgridgarden.com/#ru
 
-Сервисы проверки
+Сервисы проверки, разработки и тестирования
 
 * https://recaptcha-demo.appspot.com/recaptcha-v3-request-scores.php
+* https://dotnetfiddle.net/
