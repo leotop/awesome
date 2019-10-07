@@ -19,6 +19,14 @@
         throw new Exception();
     }
 
+Разбить строку по разделителю
+
+    string accStr = project.Variables["accStr"].Value;
+    string[] data = accStr.Split(':');
+    project.Variables["Login"].Value = data[0];
+    project.Variables["Pass"].Value = data[1];
+
+
 
 Коллекции сниппетов
 
