@@ -7,7 +7,21 @@
 
     return project.GetLastError().ActionComment;
 
-.
+
+Поиск значения переменной на странице
+
+    // https://zennolab.com/discussion/threads/proverka-nalichija-vydelennogo-teksta.48822/#post-365321
+    // Проверка наличия текста из переменной в активной вкладке.
+
+    if(instance.ActiveTab.PageText.Contains(project.Variables["TEXT"].Value)){
+        return "OK";
+    }else{
+        throw new Exception();
+    }
+
+
+
+
 Ссылки на темы:
 
 * https://zennolab.com/discussion/threads/najti-koordinaty-4x-tochek-ehlementa-i-sdelat-randomnyj-klik-vnutri-ehtix-koordinat.66011/
