@@ -10,3 +10,8 @@ VK BUY
 ЮЛА
 
 * https://zennolab.com/discussion/threads/bot-dlja-rassylki-i-avtootvetov-na-jule-youla-master.64554/
+
+Прочее:
+
+* https://zennolab.com/discussion/threads/similarweb-baza-programma-poiska-sajtov-donorov-dlja-vashix-botov.57823/#post-463569
+
