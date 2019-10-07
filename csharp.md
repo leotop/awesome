@@ -46,9 +46,13 @@ Natural Language
 * https://github.com/ti-ka/human-date-parser
 * https://github.com/feature23/StringSimilarity.NET
 
+* https://github.com/pdonald/language-detection
+* https://github.com/aarondandy/WeCantSpell.Hunspell
+
 Алгоритмы
 
 * https://github.com/aalhour/C-Sharp-Algorithms
+
 
 Видео и аудио
 
@@ -82,6 +86,7 @@ WORD, EXCEL, OFFICE
 
 * https://github.com/UNIT6-open/TemplateEngine.Docx
 * https://github.com/xceedsoftware/DocX
+* https://github.com/Jetro223/DocXNETCore
 
 CSV
 
