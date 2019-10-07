@@ -37,6 +37,7 @@ PDF
 
 * https://docs.mongodb.com/ecosystem/drivers/csharp/
 * https://github.com/elastic/elasticsearch-net
+* https://github.com/mbdavid/LiteDB
 
 
 Natural Language
@@ -80,6 +81,7 @@ AForge.
 WORD, EXCEL, OFFICE
 
 * https://github.com/UNIT6-open/TemplateEngine.Docx
+* https://github.com/xceedsoftware/DocX
 
 CSV
 
