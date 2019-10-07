@@ -94,3 +94,4 @@ https://classif.gov.spb.ru/irsi/
 * https://recaptcha-demo.appspot.com/recaptcha-v3-request-scores.php
 * https://dotnetfiddle.net/
 * https://chek.zennolab.com/
+* https://stackoverflow.com/questions/5725430/http-test-server-accepting-get-post-requests
