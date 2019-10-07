@@ -11,9 +11,10 @@ VK BUY
 
 * https://zennolab.com/discussion/threads/bot-dlja-rassylki-i-avtootvetov-na-jule-youla-master.64554/
 
-Решение проблем с проектами
+Решение проблем с проектами и отладка
 
 * https://zennolab.com/discussion/threads/proekt-vyros-v-razmerax-i-perestal-otkryvatsja.56822/page-2https://zennolab.com/discussion/threads/proekt-vyros-v-razmerax-i-perestal-otkryvatsja.56822/page-2
+* https://zennolab.com/discussion/threads/rabota-s-api-i-post-get-na-primere-vk-com.23796/
 
 Прочее:
 
