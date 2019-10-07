@@ -34,3 +34,4 @@
 * https://zennolab.com/discussion/threads/c-snippet-kak-vzjat-stroku-iz-spiska-s-udaleniem.47055/
 * https://zennolab.com/discussion/threads/vzjat-stroku-iz-spiska-s-posledujuschim-udaleniem-c.41188/
 * https://zennolab.com/discussion/threads/10-sluchajnyx-chisel-diapazone-ot-0-do-100-bez-povtorov-s.65634/
+* https://ru.stackoverflow.com/questions/18507/%D0%9A%D0%B0%D0%BA-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80-%D0%B8-ip-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F
