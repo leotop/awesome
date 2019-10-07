@@ -77,3 +77,10 @@ https://classif.gov.spb.ru/irsi/
 Определение CMS
 
 * https://builtwith.com/detailed/zennolab.com
+
+Обучение в игровой форме
+
+* https://flexboxfroggy.com/#ru
+* https://cssbattle.dev/
+* https://codecombat.com/
+* https://cssgridgarden.com/#ru
