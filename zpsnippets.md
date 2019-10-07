@@ -33,3 +33,4 @@
 * https://zennolab.com/discussion/threads/kak-perenesti-neskolko-strok-s-odnogo-spiska-v-drugoj.65705/
 * https://zennolab.com/discussion/threads/c-snippet-kak-vzjat-stroku-iz-spiska-s-udaleniem.47055/
 * https://zennolab.com/discussion/threads/vzjat-stroku-iz-spiska-s-posledujuschim-udaleniem-c.41188/
+* https://zennolab.com/discussion/threads/10-sluchajnyx-chisel-diapazone-ot-0-do-100-bez-povtorov-s.65634/
