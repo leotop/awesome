@@ -20,6 +20,9 @@
     }
 
 
+Коллекции сниппетов
+
+* https://github.com/ZennoHelpers/Snippets
 
 
 Ссылки на темы:
