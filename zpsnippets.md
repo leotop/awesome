@@ -31,3 +31,5 @@
 * https://zennolab.com/discussion/threads/post-zapros-v-calendar-google-com.51626/
 * https://zennolab.com/discussion/threads/vremja-ozhidanija-sms.36340/
 * https://zennolab.com/discussion/threads/kak-perenesti-neskolko-strok-s-odnogo-spiska-v-drugoj.65705/
+* https://zennolab.com/discussion/threads/c-snippet-kak-vzjat-stroku-iz-spiska-s-udaleniem.47055/
+* https://zennolab.com/discussion/threads/vzjat-stroku-iz-spiska-s-posledujuschim-udaleniem-c.41188/
