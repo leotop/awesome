@@ -58,6 +58,7 @@ Natural Language
 Разное
 
 * https://github.com/mariusschulz/ExtraLINQ
+* https://github.com/ua-parser/uap-csharp
 
 Заметки
 
