@@ -65,3 +65,7 @@ AForge.
     AForge.MachineLearning – библиотека для машинного обучения;
     AForge.Robotics – библиотека, предоставляющая подержу некоторых Robotics kits;
     AForge.Video – набор библиотек для обработки видео.
+
+WORD, EXCEL, OFFICE
+
+* https://github.com/UNIT6-open/TemplateEngine.Docx
