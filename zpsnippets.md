@@ -8,3 +8,7 @@
     return project.GetLastError().ActionComment;
 
 .
+Ссылки на темы:
+
+https://zennolab.com/discussion/threads/najti-koordinaty-4x-tochek-ehlementa-i-sdelat-randomnyj-klik-vnutri-ehtix-koordinat.66011/
+
