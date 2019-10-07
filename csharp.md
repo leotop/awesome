@@ -69,3 +69,12 @@ AForge.
 WORD, EXCEL, OFFICE
 
 * https://github.com/UNIT6-open/TemplateEngine.Docx
+
+EMAIL
+
+* https://www.nuget.org/packages/MimeKit/
+
+
+AWESOME
+
+* https://github.com/quozd/awesome-dotnet
