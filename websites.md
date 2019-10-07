@@ -78,6 +78,10 @@ https://classif.gov.spb.ru/irsi/
 
 * https://builtwith.com/detailed/zennolab.com
 
+Определение позиций сайта
+
+* https://xmlriver.com/
+
 Обучение в игровой форме
 
 * https://flexboxfroggy.com/#ru
