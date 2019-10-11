@@ -1,3 +1,7 @@
+Много информации по программированию, готовые решения, статьи
+
+* https://ourcodeworld.com/
+
 Дешевые домены
 
 * https://www.alibabacloud.com/domain/xyz (акция на 1 первый домен xyz)
