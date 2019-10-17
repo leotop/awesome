@@ -11,6 +11,10 @@
 * https://github.com/roots/bedrock - не является темой, но добавляет удобства для разработки
 * https://github.com/roots/sage - шаблонизатор blade, активная разработка
 
+Темы для WP на гитхабе
+* https://github.com/topics/wordpress-theme
+* https://github.com/topics/wordpress-starter-theme
+
 Плагины
 
 Дополнительные поля
