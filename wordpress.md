@@ -10,3 +10,8 @@
 * https://github.com/timber/timber - плагин для использования twig, при разработке темы
 * https://github.com/roots/bedrock - не является темой, но добавляет удобства для разработки
 * https://github.com/roots/sage - шаблонизатор blade, активная разработка
+
+Плагины
+
+Дополнительные поля
+* https://github.com/CMB2/CMB2 - CMB2 is a developer's toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind. Easily manage meta for posts, terms, users, comments, or create custom option pages.
