@@ -4,11 +4,15 @@
 
 Стартовые темы для разработки
 
-* https://github.com/arnabwahid/wordpress-bootstrap - фреймворк bootsrap 3, активная поддержка
-* https://github.com/html5blank/html5blank - без фреймворков, HTML 5, обновления 1 год назад
+* https://github.com/arnabwahid/wordpress-bootstrap - фреймворк bootsrap 3, активная поддержка. Возможны конфликты стилей с другими плагинами.
+* https://github.com/html5blank/html5blank - без фреймворков, HTML 5, обновления 1 год назад, использование новой версии node вызывает ошибки. Не рекомендуется для разработки новых тем.
+
 * https://github.com/olefredrik/FoundationPress - фреймворк Foundation, не поддерживается, в связи с прекрашением активной разработки самого фреймворка
+
 * https://github.com/timber/timber - плагин для использования twig, при разработке темы
+
 * https://github.com/roots/bedrock - не является темой, но добавляет удобства для разработки
+
 * https://github.com/roots/sage - шаблонизатор blade, активная разработка
 
 Темы для WP на гитхабе
